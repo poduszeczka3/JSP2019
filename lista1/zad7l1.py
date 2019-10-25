@@ -1,0 +1,1 @@
+print("Znak '_' jest przenośną zmienną, która przyjmuje wartośc ostatniego działania matematycznego.")
