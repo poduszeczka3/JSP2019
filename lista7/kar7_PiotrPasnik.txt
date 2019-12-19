@@ -1,0 +1,12 @@
+import random as rd
+import time
+
+k=int(input("Wpisz liczbę elementów listy do posortowania: "))
+start = time.time()
+i=0
+n=[]
+while i<k:
+    n.append(rd.randint(0,20))
+    i+=1
+print(n)
+print()

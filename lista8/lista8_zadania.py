@@ -182,8 +182,8 @@ def zadanie4():
         print("\a% ERROR! Nie ma takiego pliku!")
 
 def main():
-    #zadanie1()
-    #zadanie2()
+    zadanie1()
+    zadanie2()
     zadanie3()
     zadanie4()
 
